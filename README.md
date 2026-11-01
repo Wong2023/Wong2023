@@ -1,9 +1,20 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+%26+Backend+Dev;Embedded+%26+IoT+Explorer;Cloud+Security+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
 # 👋 Hi there!
 
 🌍 **Software Engineer (Frontend, Backend & Cloud Security)**  
 🚀 **Specialized in** secure application architecture, IoT & embedded systems, and production-grade Web/Mobile apps  
 🔭 **Currently building:** FreeRTOS embedded applications, SCADA/IoT honeypots, and real-time sensor networks  
 💡 Combining engineering precision, security awareness, and full-stack technical depth  
+🔗 **Portfolio:** [wong2023.github.io/my_website](https://wong2023.github.io/my_website/)  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Wong2023&color=7F52FF&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
@@ -47,10 +58,43 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 
 ---
+
+### 📌 Featured Project
+
+<p align="center">
+  <a href="https://github.com/Wong2023/my_website">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Wong2023&repo=my_website&theme=tokyonight" alt="Pinned Repo" />
+  </a>
+</p>
+
+---
+
+### 📜 Certificates & Courses
+
+<details>
+  <summary><b>🔍 Посмотреть список сертификатов</b></summary>
+  <br>
+  
+  - 🎓 **Big Data 101** (20.01.2026)
+  - 🎓 **Signal Processing** (23.01.2026)
+  - 🎓 **Wireless Communications** (23.01.2026)
+  - 🎓 **Fortinet Networking Fundamentals** (08.02.2026)
+</details>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wong2023&theme=tokyonight&hide_border=true" alt="Wong2023 GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://snk-badge.vercel.app/api/snake/Wong2023?theme=dark" alt="Contribution Snake" />
 </p>
 
 ---
