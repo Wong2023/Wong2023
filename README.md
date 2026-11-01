@@ -1,6 +1,7 @@
 # 👋 Hi there!
 
 🌍 **Software Engineer (Frontend, Backend & Cloud Security)** 
+
 🚀 **Specialized in** secure application architecture, IoT & embedded systems, and production-grade Web/Mobile apps  
 🔭 **Currently building:** FreeRTOS embedded applications, SCADA/IoT honeypots, and real-time sensor networks  
 💡 Combining engineering precision, security awareness, and full-stack technical depth  
