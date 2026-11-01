@@ -94,7 +94,7 @@
 ### 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://snk-badge.vercel.app/api/snake/Wong2023?theme=dark" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
