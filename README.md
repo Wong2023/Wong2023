@@ -50,7 +50,10 @@
 
 ### 📊 GitHub Stats
 
-![Wong2023 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wong2023&show_icons=true&theme=radial) ![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=Wong2023&layout=compact&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wong2023&show_icons=true&theme=radial" alt="Wong2023 GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-languages/?username=Wong2023&layout=compact&theme=radial" alt="Top Languages" />
+</p>
 
 ---
 
