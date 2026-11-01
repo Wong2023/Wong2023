@@ -9,8 +9,7 @@
 🌍 **Software Engineer (Frontend, Backend & Cloud Security)**  
 🚀 **Specialized in** secure application architecture, IoT & embedded systems, and production-grade Web/Mobile apps  
 🔭 **Currently building:** FreeRTOS embedded applications, SCADA/IoT honeypots, and real-time sensor networks  
-💡 Combining engineering precision, security awareness, and full-stack technical depth  
-🔗 **Portfolio:** [wong2023.github.io/my_website](https://wong2023.github.io/my_website/)  
+💡 Combining engineering precision, security awareness, and full-stack technical depth    
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Wong2023&color=7F52FF&style=for-the-badge" alt="Profile Views" />
@@ -57,15 +56,6 @@
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008080?style=for-the-badge)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 
----
-
-### 📌 Featured Project
-
-<p align="center">
-  <a href="https://github.com/Wong2023/my_website">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Wong2023&repo=my_website&theme=tokyonight" alt="Pinned Repo" />
-  </a>
-</p>
 
 ---
 
