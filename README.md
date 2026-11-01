@@ -47,12 +47,10 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wong2023&show_icons=true&theme=radial" alt="Wong2023 GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-languages/?username=Wong2023&layout=compact&theme=radial" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wong2023&theme=tokyonight&hide_border=true" alt="Wong2023 GitHub Streak" />
 </p>
 
 ---
