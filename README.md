@@ -4,7 +4,6 @@
 🚀 **Specialized in** secure application architecture, IoT & embedded systems, and production-grade Web/Mobile apps  
 🔭 **Currently building:** FreeRTOS embedded applications, SCADA/IoT honeypots, and real-time sensor networks  
 💡 Combining engineering precision, security awareness, and full-stack technical depth  
-🔗 **Portfolio:** [wong2023.github.io/my_website](https://wong2023.github.io/my_website/)  
 
 ---
 
